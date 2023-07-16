@@ -1,3 +1,3 @@
 # react-typescript-hangman
-##live version
+## live
 https://funny-starburst-06c570.netlify.app
